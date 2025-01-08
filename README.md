@@ -1,4 +1,4 @@
-# mc-server-pack
+# nchuit-mcserver
 NCHUIT Minecraft modpack server.
 
 # information
