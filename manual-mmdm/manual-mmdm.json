@@ -1,0 +1,972 @@
+{
+    "categories": [
+        {
+            "name": "Default"
+        },
+        {
+            "name": "UI輔助"
+        },
+        {
+            "name": "交通"
+        },
+        {
+            "name": "前置API"
+        },
+        {
+            "name": "工業"
+        },
+        {
+            "name": "建築"
+        },
+        {
+            "name": "性能優化"
+        },
+        {
+            "name": "模組輔助"
+        },
+        {
+            "name": "生存輔助"
+        },
+        {
+            "name": "規則修改"
+        },
+        {
+            "name": "農業與烹飪"
+        }
+    ],
+    "mods": [
+        {
+            "name": "appleskin-forge-mc1.19-2.4.2",
+            "filename": "appleskin-forge-mc1.19-2.4.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "食物及飢餓相關HUD增強",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "architectury-6.6.92-forge",
+            "filename": "architectury-6.6.92-forge.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "",
+            "categories": [
+                "前置API"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "BetterAdvancements-1.19.2-0.3.0.148",
+            "filename": "BetterAdvancements-1.19.2-0.3.0.148.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "更好的成就",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "catalogue-1.7.0-1.19.2",
+            "filename": "catalogue-1.7.0-1.19.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "現代化模組列表",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "charmofundying-forge-6.2.1+1.19.2",
+            "filename": "charmofundying-forge-6.2.1+1.19.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "不死圖騰插槽",
+            "categories": [
+                "生存輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "chunkloaders-1.2.8a-forge-mc1.19",
+            "filename": "chunkloaders-1.2.8a-forge-mc1.19.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "區塊加載",
+            "categories": [
+                "規則修改"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "cloth-config-8.3.134-forge",
+            "filename": "cloth-config-8.3.134-forge.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "",
+            "categories": [
+                "前置API"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "configured-2.1.1-1.19.2",
+            "filename": "configured-2.1.1-1.19.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "在遊戲內UI俢改模組config",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "Controlling-forge-1.19.2-10.0+7",
+            "filename": "Controlling-forge-1.19.2-10.0+7.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "按鍵衝突顯示",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "create-1.19.2-0.5.1.i",
+            "filename": "create-1.19.2-0.5.1.i.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "機械動力",
+            "categories": [
+                "工業"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "createaddition-1.19.2-1.2.2",
+            "filename": "createaddition-1.19.2-1.2.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "機械動力拓充",
+            "categories": [
+                "工業"
+            ],
+            "dependencies": [
+                "create-1.19.2-0.5.1.i"
+            ]
+        },
+        {
+            "name": "cupboard-1.19.2-2.6",
+            "filename": "cupboard-1.19.2-2.6.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "",
+            "categories": [
+                "前置API"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "curios-forge-1.19.2-5.1.6.4",
+            "filename": "curios-forge-1.19.2-5.1.6.4.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "",
+            "categories": [
+                "前置API"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "dummmmmmy-1.19.2-1.7.1",
+            "filename": "dummmmmmy-1.19.2-1.7.1.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "測傷害用的假人",
+            "categories": [
+                "生存輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "embeddium-0.3.18.1+mc1.19.2",
+            "filename": "embeddium-0.3.18.1+mc1.19.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "",
+            "categories": [
+                "性能優化"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "embeddiumplus-1.19.2-v1.2.13",
+            "filename": "embeddiumplus-1.19.2-v1.2.13.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "embeddium 擴展",
+            "categories": [
+                "性能優化"
+            ],
+            "dependencies": [
+                "embeddium-0.3.18.1+mc1.19.2"
+            ]
+        },
+        {
+            "name": "FallingTree-1.19.2-3.10.1",
+            "filename": "FallingTree-1.19.2-3.10.1.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "一次砍整顆樹",
+            "categories": [
+                "規則修改"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "FarmersDelight-1.19.2-1.2.4",
+            "filename": "FarmersDelight-1.19.2-1.2.4.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "豐富了耕作與烹飪相關的內容",
+            "categories": [
+                "農業與烹飪"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "farsight-1.19.2-3.6",
+            "filename": "farsight-1.19.2-3.6.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "增加視野距離（提前加載）",
+            "categories": [
+                "性能優化"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "FastFurnace-1.19.2-7.0.0",
+            "filename": "FastFurnace-1.19.2-7.0.0.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "熔爐性能優化",
+            "categories": [
+                "性能優化"
+            ],
+            "dependencies": [
+                "Placebo-1.19.2-7.4.0"
+            ]
+        },
+        {
+            "name": "FastSuite-1.19.2-4.1.1",
+            "filename": "FastSuite-1.19.2-4.1.1.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "配方性能優化",
+            "categories": [
+                "性能優化"
+            ],
+            "dependencies": [
+                "Placebo-1.19.2-7.4.0"
+            ]
+        },
+        {
+            "name": "FastWorkbench-1.19.2-7.1.4",
+            "filename": "FastWorkbench-1.19.2-7.1.4.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "工作台性能優化",
+            "categories": [
+                "性能優化"
+            ],
+            "dependencies": [
+                "Placebo-1.19.2-7.4.0"
+            ]
+        },
+        {
+            "name": "ferritecore-5.0.3-forge",
+            "filename": "ferritecore-5.0.3-forge.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "記憶體優化",
+            "categories": [
+                "性能優化"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "Forgematica-0.1.10-mc1.19.2",
+            "filename": "Forgematica-0.1.10-mc1.19.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "藍圖",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": [
+                "MaFgLib-0.1.14-mc1.19.2"
+            ]
+        },
+        {
+            "name": "framework-forge-1.19.2-0.7.12",
+            "filename": "framework-forge-1.19.2-0.7.12.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "",
+            "categories": [
+                "前置API"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "globalxp-1.19.2-1.10.2",
+            "filename": "globalxp-1.19.2-1.10.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "經驗儲存方塊",
+            "categories": [
+                "Default"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "gravestone-forge-1.19.2-1.0.24",
+            "filename": "gravestone-forge-1.19.2-1.0.24.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "死亡墓碑",
+            "categories": [
+                "Default"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "imblocker-1.19.2-3.1.2",
+            "filename": "imblocker-1.19.2-3.1.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "輸入法輸入衝突修復",
+            "categories": [
+                "性能優化"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "inventoryhud.forge.1.19.2-3.4.26",
+            "filename": "inventoryhud.forge.1.19.2-3.4.26.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "物品欄HUD+",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "InventoryProfilesNext-forge-1.19-1.10.11",
+            "filename": "InventoryProfilesNext-forge-1.19-1.10.11.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "一鍵整理包包",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": [
+                "kotlinforforge-3.12.0-all",
+                "libIPN-forge-1.19-4.0.2"
+            ]
+        },
+        {
+            "name": "ironchest-1.19.2-14.2.7",
+            "filename": "ironchest-1.19.2-14.2.7.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "更多箱子",
+            "categories": [
+                "生存輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "ItShallNotTick-1.0.11-build.35",
+            "filename": "ItShallNotTick-1.0.11-build.35.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "讓不需要的實體停止加載",
+            "categories": [
+                "性能優化"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "jecharacters-1.19.2-forge-4.5.13",
+            "filename": "jecharacters-1.19.2-forge-4.5.13.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "通用拼音搜尋",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "jeed-1.19.2-2.1.4",
+            "filename": "jeed-1.19.2-2.1.4.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "JEI 藥水效果",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": [
+                "jei-1.19.2-forge-11.8.1.1034"
+            ]
+        },
+        {
+            "name": "jei-1.19.2-forge-11.8.1.1034",
+            "filename": "jei-1.19.2-forge-11.8.1.1034.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "JER-Integration-4.5.0",
+            "filename": "JER-Integration-4.5.0.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": [
+                "jei-1.19.2-forge-11.8.1.1034",
+                "JustEnoughResources-1.19.2-1.2.3.243"
+            ]
+        },
+        {
+            "name": "JustEnoughProfessions-forge-1.19.2-2.0.2",
+            "filename": "JustEnoughProfessions-forge-1.19.2-2.0.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "在 JEI 中提供村民需要哪些工作方塊的資訊",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": [
+                "jei-1.19.2-forge-11.8.1.1034"
+            ]
+        },
+        {
+            "name": "JustEnoughResources-1.19.2-1.2.3.243",
+            "filename": "JustEnoughResources-1.19.2-1.2.3.243.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "JEI 生物資源整合",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": [
+                "jei-1.19.2-forge-11.8.1.1034"
+            ]
+        },
+        {
+            "name": "kotlinforforge-3.12.0-all",
+            "filename": "kotlinforforge-3.12.0-all.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "",
+            "categories": [
+                "前置API"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "KryptonReforged-0.2.1",
+            "filename": "KryptonReforged-0.2.1.jar",
+            "is_translated": false,
+            "client_required": false,
+            "server_required": true,
+            "notes": "如果雙端安裝可能會報錯，官方推薦在 Server 端就好",
+            "categories": [
+                "性能優化"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "libIPN-forge-1.19-4.0.2",
+            "filename": "libIPN-forge-1.19-4.0.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "",
+            "categories": [
+                "前置API"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "MaFgLib-0.1.14-mc1.19.2",
+            "filename": "MaFgLib-0.1.14-mc1.19.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "",
+            "categories": [
+                "前置API"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "Mantle-1.19.2-1.10.48",
+            "filename": "Mantle-1.19.2-1.10.48.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "",
+            "categories": [
+                "前置API"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "ModernUI-Forge-1.19.2-3.10.1.2-universal",
+            "filename": "ModernUI-Forge-1.19.2-3.10.1.2-universal.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "現代化UI界面",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "moonlight-1.19.2-2.3.7-forge",
+            "filename": "moonlight-1.19.2-2.3.7-forge.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "",
+            "categories": [
+                "前置API"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "moreoverlays-1.21.10-mc1.19.2",
+            "filename": "moreoverlays-1.21.10-mc1.19.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "F7顯示刷怪區域、F9顯示區塊邊界",
+            "categories": [
+                "Default"
+            ],
+            "dependencies": [
+                "jei-1.19.2-forge-11.8.1.1034"
+            ]
+        },
+        {
+            "name": "MouseTweaks-forge-mc1.19-2.23",
+            "filename": "MouseTweaks-forge-mc1.19-2.23.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "滑鼠手勢",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "MTR-forge-4.0.0-beta.13+1.19.2",
+            "filename": "MTR-forge-4.0.0-beta.13+1.19.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "自動化鐵路",
+            "categories": [
+                "交通"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "Neat-1.19-32",
+            "filename": "Neat-1.19-32.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "極簡血量顯示",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "Nedologin-1.19.2-1.0.8-all",
+            "filename": "Nedologin-1.19.2-1.0.8-all.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "Offline 模式登入系統",
+            "categories": [
+                "規則修改"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "notenoughcrashes-5.0.0+1.19.2-forge",
+            "filename": "notenoughcrashes-5.0.0+1.19.2-forge.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "崩潰優化",
+            "categories": [
+                "性能優化"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "oculus-mc1.19.2-1.6.9a",
+            "filename": "oculus-mc1.19.2-1.6.9a.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "",
+            "categories": [
+                "性能優化"
+            ],
+            "dependencies": [
+                "embeddium-0.3.18.1+mc1.19.2"
+            ]
+        },
+        {
+            "name": "OreExcavation-1.11.166",
+            "filename": "OreExcavation-1.11.166.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "連鎖挖礦",
+            "categories": [
+                "生存輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "Patchouli-1.19.2-77",
+            "filename": "Patchouli-1.19.2-77.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "模組手冊系統",
+            "categories": [
+                "模組輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "Placebo-1.19.2-7.4.0",
+            "filename": "Placebo-1.19.2-7.4.0.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "",
+            "categories": [
+                "前置API"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "polymorph-forge-0.46.6+1.19.2",
+            "filename": "polymorph-forge-0.46.6+1.19.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "允許多個重複合成表",
+            "categories": [
+                "模組輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "PRP-Arch-Forge-1.0.1-Hotfix-1.19.x",
+            "filename": "PRP-Arch-Forge-1.0.1-Hotfix-1.19.x.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "Patchouli 中文補丁",
+            "categories": [
+                "模組輔助"
+            ],
+            "dependencies": [
+                "Patchouli-1.19.2-77"
+            ]
+        },
+        {
+            "name": "refurbished furniture-forge-1.19.2-1.0.8",
+            "filename": "refurbished_furniture-forge-1.19.2-1.0.8.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "家具模組",
+            "categories": [
+                "建築"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "rpmtw-platform-mod-1.19.2-1.5.8-forge",
+            "filename": "rpmtw-platform-mod-1.19.2-1.5.8-forge.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": false,
+            "notes": "繁體中文漢化模組",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "scarecrowsterritory-1.1.11a-forge-mc1.19",
+            "filename": "scarecrowsterritory-1.1.11a-forge-mc1.19.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "生怪稻草人",
+            "categories": [
+                "規則修改"
+            ],
+            "dependencies": [
+                "supermartijn642configlib-1.1.8-forge-mc1.19",
+                "supermartijn642corelib-1.1.18-forge-mc1.19.2"
+            ]
+        },
+        {
+            "name": "shulkerboxtooltip-forge-3.2.2+1.19.2",
+            "filename": "shulkerboxtooltip-forge-3.2.2+1.19.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "顯示界伏盒的內容物",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": [
+                "cloth-config-8.3.134-forge"
+            ]
+        },
+        {
+            "name": "SimpleStorageNetwork-1.19.2-1.7.1",
+            "filename": "SimpleStorageNetwork-1.19.2-1.7.1.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "簡單存儲",
+            "categories": [
+                "生存輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "skin changer-1.19-0.5.3",
+            "filename": "skin_changer-1.19-0.5.3.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "更換皮膚（支援Offline模式）",
+            "categories": [
+                "規則修改"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "sliceanddice-forge-2.4.0",
+            "filename": "sliceanddice-forge-2.4.0.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "讓 Create 與農業聯動的模組",
+            "categories": [
+                "模組輔助"
+            ],
+            "dependencies": [
+                "create-1.19.2-0.5.1.i",
+                "FarmersDelight-1.19.2-1.2.4",
+                "kotlinforforge-3.12.0-all"
+            ]
+        },
+        {
+            "name": "sophisticatedbackpacks-1.19.2-3.20.2.1035",
+            "filename": "sophisticatedbackpacks-1.19.2-3.20.2.1035.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "背包模組",
+            "categories": [
+                "生存輔助"
+            ],
+            "dependencies": [
+                "sophisticatedcore-1.19.2-0.6.4.730"
+            ]
+        },
+        {
+            "name": "sophisticatedcore-1.19.2-0.6.4.730",
+            "filename": "sophisticatedcore-1.19.2-0.6.4.730.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "",
+            "categories": [
+                "前置API"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "Steam Rails-1.6.6+forge-mc1.19.2",
+            "filename": "Steam_Rails-1.6.6+forge-mc1.19.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "Create 的鐵路系統附屬",
+            "categories": [
+                "交通"
+            ],
+            "dependencies": [
+                "create-1.19.2-0.5.1.i"
+            ]
+        },
+        {
+            "name": "supermartijn642configlib-1.1.8-forge-mc1.19",
+            "filename": "supermartijn642configlib-1.1.8-forge-mc1.19.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "",
+            "categories": [
+                "前置API"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "supermartijn642corelib-1.1.18-forge-mc1.19.2",
+            "filename": "supermartijn642corelib-1.1.18-forge-mc1.19.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "",
+            "categories": [
+                "前置API"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "TConstruct-1.19.2-3.8.5.58",
+            "filename": "TConstruct-1.19.2-3.8.5.58.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "匠魂",
+            "categories": [
+                "工業"
+            ],
+            "dependencies": [
+                "Mantle-1.19.2-1.10.48"
+            ]
+        },
+        {
+            "name": "theoneprobe-1.19-6.2.2",
+            "filename": "theoneprobe-1.19-6.2.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "看著箱子時顯示內部物品等資訊",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "tpa-1.4.1-1.19.2",
+            "filename": "tpa-1.4.1-1.19.2.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "/tpa 傳送",
+            "categories": [
+                "交通"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "Xaeros Minimap 24.7.1 Forge 1.19.1",
+            "filename": "Xaeros_Minimap_24.7.1_Forge_1.19.1.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "小地圖",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "XaerosWorldMap 1.39.2 Forge 1.19.1",
+            "filename": "XaerosWorldMap_1.39.2_Forge_1.19.1.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "大地圖",
+            "categories": [
+                "UI輔助"
+            ],
+            "dependencies": []
+        }
+    ]
+}
