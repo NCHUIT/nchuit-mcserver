@@ -355,7 +355,7 @@
             "server_required": true,
             "notes": "經驗儲存方塊",
             "categories": [
-                "Default"
+                "生存輔助"
             ],
             "dependencies": []
         },
@@ -367,7 +367,7 @@
             "server_required": true,
             "notes": "死亡墓碑",
             "categories": [
-                "Default"
+                "生存輔助"
             ],
             "dependencies": []
         },
@@ -466,7 +466,7 @@
             "is_translated": false,
             "client_required": true,
             "server_required": true,
-            "notes": "",
+            "notes": "JEI 配方查詢",
             "categories": [
                 "UI輔助"
             ],
@@ -478,7 +478,7 @@
             "is_translated": false,
             "client_required": true,
             "server_required": false,
-            "notes": "",
+            "notes": "JEI 與 JER 整合",
             "categories": [
                 "UI輔助"
             ],
@@ -607,7 +607,7 @@
             "server_required": false,
             "notes": "F7顯示刷怪區域、F9顯示區塊邊界",
             "categories": [
-                "Default"
+                "UI輔助"
             ],
             "dependencies": [
                 "jei-1.19.2-forge-11.8.1.1034"
