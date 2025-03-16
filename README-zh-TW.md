@@ -1,4 +1,4 @@
-# nchuit-mcserver
+# NCHUIT-MCServer
 *查看不同語言的 README 文件：[English](README.md)*
 
 ## 📋 介紹
@@ -75,3 +75,6 @@
 如有任何問題或建議，歡迎透過以下方式聯絡我們：
 - 電子郵件：[it.nchu@gmail.com](mailto:it.nchu@gmail.com)
 - 社團網站：[nchuit.com](https://nchuit.com/)
+
+## 📜 授權條款
+本專案採用 MIT 授權條款 - 詳情請參閱 [LICENSE](LICENSE) 檔案。

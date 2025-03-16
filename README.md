@@ -1,4 +1,4 @@
-# nchuit-mcserver
+# NCHUIT-MCServer
 *Check out README in different languages: [繁體中文](README-zh-TW.md)*
 
 ## 📋 Introduction
@@ -77,3 +77,6 @@ If you're a modpack editor and want to publish a Release after changing mods, pr
 If you have any questions or suggestions, feel free to contact us through:
 - Email: [it.nchu@gmail.com](mailto:it.nchu@gmail.com)
 - Club Website: [nchuit.com](https://nchuit.com/)
+
+## 📜 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
