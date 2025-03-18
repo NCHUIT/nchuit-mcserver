@@ -4,6 +4,9 @@
             "name": "Default"
         },
         {
+            "name": "RPG"
+        },
+        {
             "name": "UI輔助"
         },
         {
@@ -941,6 +944,18 @@
             "notes": "/tpa 傳送",
             "categories": [
                 "交通"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "twilightforest-1.19.2-4.2.1518-universal",
+            "filename": "twilightforest-1.19.2-4.2.1518-universal.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "暮光森林",
+            "categories": [
+                "RPG"
             ],
             "dependencies": []
         },

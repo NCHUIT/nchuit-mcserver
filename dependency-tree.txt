@@ -84,6 +84,7 @@ TConstruct-1.19.2-3.8.5.58
   └── Mantle-1.19.2-1.10.48
 theoneprobe-1.19-6.2.2
 tpa-1.4.1-1.19.2
+twilightforest-1.19.2-4.2.1518-universal
 Xaeros Minimap 24.7.1 Forge 1.19.1
 XaerosWorldMap 1.39.2 Forge 1.19.1
 
@@ -161,5 +162,6 @@ supermartijn642corelib-1.1.18-forge-mc1.19.2
 TConstruct-1.19.2-3.8.5.58 (dependencies: Mantle-1.19.2-1.10.48)
 theoneprobe-1.19-6.2.2
 tpa-1.4.1-1.19.2
+twilightforest-1.19.2-4.2.1518-universal
 Xaeros Minimap 24.7.1 Forge 1.19.1
 XaerosWorldMap 1.39.2 Forge 1.19.1
