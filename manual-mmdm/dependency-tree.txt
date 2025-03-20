@@ -25,7 +25,6 @@ FastSuite-1.19.2-4.1.1
   └── Placebo-1.19.2-7.4.0
 FastWorkbench-1.19.2-7.1.4
   └── Placebo-1.19.2-7.4.0
-ferritecore-5.0.3-forge
 Forgematica-0.1.10-mc1.19.2
   └── MaFgLib-0.1.14-mc1.19.2
 framework-forge-1.19.2-0.7.12
@@ -37,7 +36,6 @@ InventoryProfilesNext-forge-1.19-1.10.11
   ├── kotlinforforge-3.12.0-all
   └── libIPN-forge-1.19-4.0.2
 ironchest-1.19.2-14.2.7
-ItShallNotTick-1.0.11-build.35
 jecharacters-1.19.2-forge-4.5.13
 jeed-1.19.2-2.1.4
   └── jei-1.19.2-forge-11.8.1.1034
@@ -112,7 +110,6 @@ farsight-1.19.2-3.6
 FastFurnace-1.19.2-7.0.0 (dependencies: Placebo-1.19.2-7.4.0)
 FastSuite-1.19.2-4.1.1 (dependencies: Placebo-1.19.2-7.4.0)
 FastWorkbench-1.19.2-7.1.4 (dependencies: Placebo-1.19.2-7.4.0)
-ferritecore-5.0.3-forge
 Forgematica-0.1.10-mc1.19.2 (dependencies: MaFgLib-0.1.14-mc1.19.2)
 framework-forge-1.19.2-0.7.12
 globalxp-1.19.2-1.10.2
@@ -121,7 +118,6 @@ imblocker-1.19.2-3.1.2
 inventoryhud.forge.1.19.2-3.4.26
 InventoryProfilesNext-forge-1.19-1.10.11 (dependencies: kotlinforforge-3.12.0-all, libIPN-forge-1.19-4.0.2)
 ironchest-1.19.2-14.2.7
-ItShallNotTick-1.0.11-build.35
 jecharacters-1.19.2-forge-4.5.13
 jeed-1.19.2-2.1.4 (dependencies: jei-1.19.2-forge-11.8.1.1034)
 jei-1.19.2-forge-11.8.1.1034
