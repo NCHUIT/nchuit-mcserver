@@ -3,5 +3,5 @@ static
 config.json
 manual-mmdm.exe
 manual-mmdm.db
-client-mods/
-server-mods/
+client_mods
+server_mods
