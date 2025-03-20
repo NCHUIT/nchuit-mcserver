@@ -729,6 +729,18 @@
             ]
         },
         {
+            "name": "refinedstorage-1.11.7",
+            "filename": "refinedstorage-1.11.7.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "精緻存儲",
+            "categories": [
+                "工業"
+            ],
+            "dependencies": []
+        },
+        {
             "name": "refurbished furniture-forge-1.19.2-1.0.8",
             "filename": "refurbished_furniture-forge-1.19.2-1.0.8.jar",
             "is_translated": false,
@@ -934,6 +946,21 @@
                 "RPG"
             ],
             "dependencies": []
+        },
+        {
+            "name": "wormhole-1.1.16-forge-mc1.19",
+            "filename": "wormhole-1.1.16-forge-mc1.19.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "自定義傳送門",
+            "categories": [
+                "工業"
+            ],
+            "dependencies": [
+                "supermartijn642configlib-1.1.8-forge-mc1.19",
+                "supermartijn642corelib-1.1.18-forge-mc1.19.2"
+            ]
         },
         {
             "name": "Xaeros Minimap 24.7.1 Forge 1.19.1",

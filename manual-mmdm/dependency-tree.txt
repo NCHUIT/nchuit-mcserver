@@ -61,6 +61,7 @@ OreExcavation-1.11.166
 polymorph-forge-0.46.6+1.19.2
 PRP-Arch-Forge-1.0.1-Hotfix-1.19.x
   └── Patchouli-1.19.2-77
+refinedstorage-1.11.7
 refurbished furniture-forge-1.19.2-1.0.8
 rpmtw-platform-mod-1.19.2-1.5.8-forge
 scarecrowsterritory-1.1.11a-forge-mc1.19
@@ -83,6 +84,9 @@ TConstruct-1.19.2-3.8.5.58
 theoneprobe-1.19-6.2.2
 tpa-1.4.1-1.19.2
 twilightforest-1.19.2-4.2.1518-universal
+wormhole-1.1.16-forge-mc1.19
+  ├── supermartijn642configlib-1.1.8-forge-mc1.19
+  └── supermartijn642corelib-1.1.18-forge-mc1.19.2
 Xaeros Minimap 24.7.1 Forge 1.19.1
 XaerosWorldMap 1.39.2 Forge 1.19.1
 
@@ -143,6 +147,7 @@ Patchouli-1.19.2-77
 Placebo-1.19.2-7.4.0
 polymorph-forge-0.46.6+1.19.2
 PRP-Arch-Forge-1.0.1-Hotfix-1.19.x (dependencies: Patchouli-1.19.2-77)
+refinedstorage-1.11.7
 refurbished furniture-forge-1.19.2-1.0.8
 rpmtw-platform-mod-1.19.2-1.5.8-forge
 scarecrowsterritory-1.1.11a-forge-mc1.19 (dependencies: supermartijn642configlib-1.1.8-forge-mc1.19, supermartijn642corelib-1.1.18-forge-mc1.19.2)
@@ -159,5 +164,6 @@ TConstruct-1.19.2-3.8.5.58 (dependencies: Mantle-1.19.2-1.10.48)
 theoneprobe-1.19-6.2.2
 tpa-1.4.1-1.19.2
 twilightforest-1.19.2-4.2.1518-universal
+wormhole-1.1.16-forge-mc1.19 (dependencies: supermartijn642configlib-1.1.8-forge-mc1.19, supermartijn642corelib-1.1.18-forge-mc1.19.2)
 Xaeros Minimap 24.7.1 Forge 1.19.1
 XaerosWorldMap 1.39.2 Forge 1.19.1
