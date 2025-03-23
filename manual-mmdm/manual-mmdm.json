@@ -13,6 +13,9 @@
             "name": "交通"
         },
         {
+            "name": "伺服器管理"
+        },
+        {
             "name": "前置API"
         },
         {
@@ -332,7 +335,7 @@
             "server_required": true,
             "notes": "領地管理",
             "categories": [
-                "規則修改"
+                "伺服器管理"
             ],
             "dependencies": []
         },
@@ -660,7 +663,7 @@
             "server_required": true,
             "notes": "Offline 模式登入系統",
             "categories": [
-                "規則修改"
+                "伺服器管理"
             ],
             "dependencies": []
         },
@@ -689,6 +692,18 @@
             "dependencies": [
                 "embeddium-0.3.18.1+mc1.19.2"
             ]
+        },
+        {
+            "name": "omo-1.19.2-en",
+            "filename": "omo-1.19.2-en.jar",
+            "is_translated": false,
+            "client_required": false,
+            "server_required": true,
+            "notes": "/tpa 傳送指令 (Teleport Asker)",
+            "categories": [
+                "交通"
+            ],
+            "dependencies": []
         },
         {
             "name": "OreExcavation-1.11.166",
@@ -767,7 +782,7 @@
         {
             "name": "refurbished furniture-forge-1.19.2-1.0.8",
             "filename": "refurbished_furniture-forge-1.19.2-1.0.8.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "家具模組",
@@ -818,6 +833,18 @@
             ]
         },
         {
+            "name": "SimpleBackups-1.19.1-2.1.11",
+            "filename": "SimpleBackups-1.19.1-2.1.11.jar",
+            "is_translated": false,
+            "client_required": false,
+            "server_required": true,
+            "notes": "",
+            "categories": [
+                "伺服器管理"
+            ],
+            "dependencies": []
+        },
+        {
             "name": "SimpleStorageNetwork-1.19.2-1.7.1",
             "filename": "SimpleStorageNetwork-1.19.2-1.7.1.jar",
             "is_translated": false,
@@ -837,7 +864,7 @@
             "server_required": true,
             "notes": "更換皮膚（支援Offline模式）",
             "categories": [
-                "規則修改"
+                "伺服器管理"
             ],
             "dependencies": []
         },
@@ -948,18 +975,6 @@
             "dependencies": []
         },
         {
-            "name": "tpa-1.4.1-1.19.2",
-            "filename": "tpa-1.4.1-1.19.2.jar",
-            "is_translated": false,
-            "client_required": true,
-            "server_required": true,
-            "notes": "/tpa 傳送",
-            "categories": [
-                "交通"
-            ],
-            "dependencies": []
-        },
-        {
             "name": "twilightforest-1.19.2-4.2.1518-universal",
             "filename": "twilightforest-1.19.2-4.2.1518-universal.jar",
             "is_translated": true,
@@ -979,7 +994,7 @@
             "server_required": true,
             "notes": "小木斧",
             "categories": [
-                "規則修改"
+                "伺服器管理"
             ],
             "dependencies": []
         },
@@ -1013,7 +1028,7 @@
         {
             "name": "XaerosWorldMap 1.39.2 Forge 1.19.1",
             "filename": "XaerosWorldMap_1.39.2_Forge_1.19.1.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "大地圖",
