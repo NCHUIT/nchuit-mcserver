@@ -42,8 +42,8 @@
     ],
     "mods": [
         {
-            "name": "appleskin-forge-mc1.19-2.4.2",
-            "filename": "appleskin-forge-mc1.19-2.4.2.jar",
+            "name": "appleskin-forge-mc1.19-2.4.2-tw",
+            "filename": "appleskin-forge-mc1.19-2.4.2-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -66,8 +66,8 @@
             "dependencies": []
         },
         {
-            "name": "BetterAdvancements-1.19.2-0.3.0.148",
-            "filename": "BetterAdvancements-1.19.2-0.3.0.148.jar",
+            "name": "BetterAdvancements-1.19.2-0.3.0.148-tw",
+            "filename": "BetterAdvancements-1.19.2-0.3.0.148-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": false,
@@ -78,8 +78,8 @@
             "dependencies": []
         },
         {
-            "name": "catalogue-1.7.0-1.19.2",
-            "filename": "catalogue-1.7.0-1.19.2.jar",
+            "name": "catalogue-1.7.0-1.19.2-tw",
+            "filename": "catalogue-1.7.0-1.19.2-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": false,
@@ -90,8 +90,8 @@
             "dependencies": []
         },
         {
-            "name": "charmofundying-forge-6.2.1+1.19.2",
-            "filename": "charmofundying-forge-6.2.1+1.19.2.jar",
+            "name": "charmofundying-forge-6.2.1+1.19.2-tw",
+            "filename": "charmofundying-forge-6.2.1+1.19.2-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -102,8 +102,8 @@
             "dependencies": []
         },
         {
-            "name": "chunkloaders-1.2.8a-forge-mc1.19",
-            "filename": "chunkloaders-1.2.8a-forge-mc1.19.jar",
+            "name": "chunkloaders-1.2.8a-forge-mc1.19-tw",
+            "filename": "chunkloaders-1.2.8a-forge-mc1.19-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -114,8 +114,8 @@
             "dependencies": []
         },
         {
-            "name": "cloth-config-8.3.134-forge",
-            "filename": "cloth-config-8.3.134-forge.jar",
+            "name": "cloth-config-8.3.134-forge-tw",
+            "filename": "cloth-config-8.3.134-forge-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -126,8 +126,8 @@
             "dependencies": []
         },
         {
-            "name": "configured-2.1.1-1.19.2",
-            "filename": "configured-2.1.1-1.19.2.jar",
+            "name": "configured-2.1.1-1.19.2-tw",
+            "filename": "configured-2.1.1-1.19.2-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -138,8 +138,8 @@
             "dependencies": []
         },
         {
-            "name": "Controlling-forge-1.19.2-10.0+7",
-            "filename": "Controlling-forge-1.19.2-10.0+7.jar",
+            "name": "Controlling-forge-1.19.2-10.0+7-tw",
+            "filename": "Controlling-forge-1.19.2-10.0+7-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": false,
@@ -150,8 +150,8 @@
             "dependencies": []
         },
         {
-            "name": "CraftTweaker-forge-1.19.2-10.1.56",
-            "filename": "CraftTweaker-forge-1.19.2-10.1.56.jar",
+            "name": "CraftTweaker-forge-1.19.2-10.1.56-tw",
+            "filename": "CraftTweaker-forge-1.19.2-10.1.56-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -162,8 +162,8 @@
             "dependencies": []
         },
         {
-            "name": "create-1.19.2-0.5.1.i",
-            "filename": "create-1.19.2-0.5.1.i.jar",
+            "name": "create-1.19.2-0.5.1.i-tw",
+            "filename": "create-1.19.2-0.5.1.i-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -174,8 +174,8 @@
             "dependencies": []
         },
         {
-            "name": "createaddition-1.19.2-1.2.2",
-            "filename": "createaddition-1.19.2-1.2.2.jar",
+            "name": "createaddition-1.19.2-1.2.2-tw",
+            "filename": "createaddition-1.19.2-1.2.2-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -184,7 +184,7 @@
                 "工業"
             ],
             "dependencies": [
-                "create-1.19.2-0.5.1.i"
+                "create-1.19.2-0.5.1.i-tw"
             ]
         },
         {
@@ -200,8 +200,8 @@
             "dependencies": []
         },
         {
-            "name": "curios-forge-1.19.2-5.1.6.4",
-            "filename": "curios-forge-1.19.2-5.1.6.4.jar",
+            "name": "curios-forge-1.19.2-5.1.6.4-tw",
+            "filename": "curios-forge-1.19.2-5.1.6.4-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -224,8 +224,8 @@
             "dependencies": []
         },
         {
-            "name": "embeddium-0.3.18.1+mc1.19.2",
-            "filename": "embeddium-0.3.18.1+mc1.19.2.jar",
+            "name": "embeddium-0.3.18.1+mc1.19.2-tw",
+            "filename": "embeddium-0.3.18.1+mc1.19.2-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": false,
@@ -236,8 +236,8 @@
             "dependencies": []
         },
         {
-            "name": "embeddiumplus-1.19.2-v1.2.13",
-            "filename": "embeddiumplus-1.19.2-v1.2.13.jar",
+            "name": "embeddiumplus-1.19.2-v1.2.13-tw",
+            "filename": "embeddiumplus-1.19.2-v1.2.13-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": false,
@@ -246,7 +246,7 @@
                 "性能優化"
             ],
             "dependencies": [
-                "embeddium-0.3.18.1+mc1.19.2"
+                "embeddium-0.3.18.1+mc1.19.2-tw"
             ]
         },
         {
@@ -262,8 +262,8 @@
             "dependencies": []
         },
         {
-            "name": "FarmersDelight-1.19.2-1.2.4",
-            "filename": "FarmersDelight-1.19.2-1.2.4.jar",
+            "name": "FarmersDelight-1.19.2-1.2.4-tw",
+            "filename": "FarmersDelight-1.19.2-1.2.4-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -340,8 +340,8 @@
             "dependencies": []
         },
         {
-            "name": "Forgematica-0.1.10-mc1.19.2",
-            "filename": "Forgematica-0.1.10-mc1.19.2.jar",
+            "name": "Forgematica-0.1.10-mc1.19.2-tw",
+            "filename": "Forgematica-0.1.10-mc1.19.2-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": false,
@@ -350,7 +350,7 @@
                 "UI輔助"
             ],
             "dependencies": [
-                "MaFgLib-0.1.14-mc1.19.2"
+                "MaFgLib-0.1.14-mc1.19.2-tw"
             ]
         },
         {
@@ -366,8 +366,8 @@
             "dependencies": []
         },
         {
-            "name": "globalxp-1.19.2-1.10.2",
-            "filename": "globalxp-1.19.2-1.10.2.jar",
+            "name": "globalxp-1.19.2-1.10.2-tw",
+            "filename": "globalxp-1.19.2-1.10.2-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -378,8 +378,8 @@
             "dependencies": []
         },
         {
-            "name": "gravestone-forge-1.19.2-1.0.24",
-            "filename": "gravestone-forge-1.19.2-1.0.24.jar",
+            "name": "gravestone-forge-1.19.2-1.0.24-tw",
+            "filename": "gravestone-forge-1.19.2-1.0.24-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -390,8 +390,8 @@
             "dependencies": []
         },
         {
-            "name": "imblocker-1.19.2-3.1.2",
-            "filename": "imblocker-1.19.2-3.1.2.jar",
+            "name": "imblocker-1.19.2-3.1.2-tw",
+            "filename": "imblocker-1.19.2-3.1.2-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": false,
@@ -402,8 +402,8 @@
             "dependencies": []
         },
         {
-            "name": "inventoryhud.forge.1.19.2-3.4.26",
-            "filename": "inventoryhud.forge.1.19.2-3.4.26.jar",
+            "name": "inventoryhud.forge.1.19.2-3.4.26-tw",
+            "filename": "inventoryhud.forge.1.19.2-3.4.26-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": false,
@@ -414,8 +414,8 @@
             "dependencies": []
         },
         {
-            "name": "InventoryProfilesNext-forge-1.19-1.10.11",
-            "filename": "InventoryProfilesNext-forge-1.19-1.10.11.jar",
+            "name": "InventoryProfilesNext-forge-1.19-1.10.11-tw",
+            "filename": "InventoryProfilesNext-forge-1.19-1.10.11-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": false,
@@ -425,12 +425,12 @@
             ],
             "dependencies": [
                 "kotlinforforge-3.12.0-all",
-                "libIPN-forge-1.19-4.0.2"
+                "libIPN-forge-1.19-4.0.2-tw"
             ]
         },
         {
-            "name": "ironchest-1.19.2-14.2.7",
-            "filename": "ironchest-1.19.2-14.2.7.jar",
+            "name": "ironchest-1.19.2-14.2.7-tw",
+            "filename": "ironchest-1.19.2-14.2.7-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -441,8 +441,8 @@
             "dependencies": []
         },
         {
-            "name": "jecharacters-1.19.2-forge-4.5.13",
-            "filename": "jecharacters-1.19.2-forge-4.5.13.jar",
+            "name": "jecharacters-1.19.2-forge-4.5.13-tw",
+            "filename": "jecharacters-1.19.2-forge-4.5.13-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": false,
@@ -453,8 +453,8 @@
             "dependencies": []
         },
         {
-            "name": "jeed-1.19.2-2.1.4",
-            "filename": "jeed-1.19.2-2.1.4.jar",
+            "name": "jeed-1.19.2-2.1.4-tw",
+            "filename": "jeed-1.19.2-2.1.4-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -463,12 +463,12 @@
                 "UI輔助"
             ],
             "dependencies": [
-                "jei-1.19.2-forge-11.8.1.1034"
+                "jei-1.19.2-forge-11.8.1.1034-tw"
             ]
         },
         {
-            "name": "jei-1.19.2-forge-11.8.1.1034",
-            "filename": "jei-1.19.2-forge-11.8.1.1034.jar",
+            "name": "jei-1.19.2-forge-11.8.1.1034-tw",
+            "filename": "jei-1.19.2-forge-11.8.1.1034-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -489,13 +489,13 @@
                 "UI輔助"
             ],
             "dependencies": [
-                "jei-1.19.2-forge-11.8.1.1034",
-                "JustEnoughResources-1.19.2-1.2.3.243"
+                "jei-1.19.2-forge-11.8.1.1034-tw",
+                "JustEnoughResources-1.19.2-1.2.3.243-tw"
             ]
         },
         {
-            "name": "JustEnoughProfessions-forge-1.19.2-2.0.2",
-            "filename": "JustEnoughProfessions-forge-1.19.2-2.0.2.jar",
+            "name": "JustEnoughProfessions-forge-1.19.2-2.0.2-tw",
+            "filename": "JustEnoughProfessions-forge-1.19.2-2.0.2-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -504,12 +504,12 @@
                 "UI輔助"
             ],
             "dependencies": [
-                "jei-1.19.2-forge-11.8.1.1034"
+                "jei-1.19.2-forge-11.8.1.1034-tw"
             ]
         },
         {
-            "name": "JustEnoughResources-1.19.2-1.2.3.243",
-            "filename": "JustEnoughResources-1.19.2-1.2.3.243.jar",
+            "name": "JustEnoughResources-1.19.2-1.2.3.243-tw",
+            "filename": "JustEnoughResources-1.19.2-1.2.3.243-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": false,
@@ -518,7 +518,7 @@
                 "UI輔助"
             ],
             "dependencies": [
-                "jei-1.19.2-forge-11.8.1.1034"
+                "jei-1.19.2-forge-11.8.1.1034-tw"
             ]
         },
         {
@@ -546,8 +546,8 @@
             "dependencies": []
         },
         {
-            "name": "libIPN-forge-1.19-4.0.2",
-            "filename": "libIPN-forge-1.19-4.0.2.jar",
+            "name": "libIPN-forge-1.19-4.0.2-tw",
+            "filename": "libIPN-forge-1.19-4.0.2-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": false,
@@ -558,8 +558,8 @@
             "dependencies": []
         },
         {
-            "name": "MaFgLib-0.1.14-mc1.19.2",
-            "filename": "MaFgLib-0.1.14-mc1.19.2.jar",
+            "name": "MaFgLib-0.1.14-mc1.19.2-tw",
+            "filename": "MaFgLib-0.1.14-mc1.19.2-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": false,
@@ -582,8 +582,8 @@
             "dependencies": []
         },
         {
-            "name": "ModernUI-Forge-1.19.2-3.10.1.2-universal",
-            "filename": "ModernUI-Forge-1.19.2-3.10.1.2-universal.jar",
+            "name": "ModernUI-Forge-1.19.2-3.10.1.2-universal-tw",
+            "filename": "ModernUI-Forge-1.19.2-3.10.1.2-universal-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": false,
@@ -616,7 +616,7 @@
                 "UI輔助"
             ],
             "dependencies": [
-                "jei-1.19.2-forge-11.8.1.1034"
+                "jei-1.19.2-forge-11.8.1.1034-tw"
             ]
         },
         {
@@ -632,8 +632,8 @@
             "dependencies": []
         },
         {
-            "name": "MTR-forge-4.0.0-beta.16+1.19.2",
-            "filename": "MTR-forge-4.0.0-beta.16+1.19.2.jar",
+            "name": "MTR-forge-4.0.0-beta.16+1.19.2-tw",
+            "filename": "MTR-forge-4.0.0-beta.16+1.19.2-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -644,8 +644,8 @@
             "dependencies": []
         },
         {
-            "name": "Neat-1.19-32",
-            "filename": "Neat-1.19-32.jar",
+            "name": "Neat-1.19-32-tw",
+            "filename": "Neat-1.19-32-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": false,
@@ -656,8 +656,8 @@
             "dependencies": []
         },
         {
-            "name": "Nedologin-1.19.2-1.0.8-all",
-            "filename": "Nedologin-1.19.2-1.0.8-all.jar",
+            "name": "Nedologin-1.19.2-1.0.8-all-tw",
+            "filename": "Nedologin-1.19.2-1.0.8-all-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -668,8 +668,8 @@
             "dependencies": []
         },
         {
-            "name": "notenoughcrashes-5.0.0+1.19.2-forge",
-            "filename": "notenoughcrashes-5.0.0+1.19.2-forge.jar",
+            "name": "notenoughcrashes-5.0.0+1.19.2-forge-tw",
+            "filename": "notenoughcrashes-5.0.0+1.19.2-forge-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -680,8 +680,8 @@
             "dependencies": []
         },
         {
-            "name": "oculus-mc1.19.2-1.6.9",
-            "filename": "oculus-mc1.19.2-1.6.9.jar",
+            "name": "oculus-mc1.19.2-1.6.9-tw",
+            "filename": "oculus-mc1.19.2-1.6.9-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": false,
@@ -690,7 +690,7 @@
                 "性能優化"
             ],
             "dependencies": [
-                "embeddium-0.3.18.1+mc1.19.2"
+                "embeddium-0.3.18.1+mc1.19.2-tw"
             ]
         },
         {
@@ -706,8 +706,8 @@
             "dependencies": []
         },
         {
-            "name": "OreExcavation-1.11.166",
-            "filename": "OreExcavation-1.11.166.jar",
+            "name": "OreExcavation-1.11.166-tw",
+            "filename": "OreExcavation-1.11.166-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -718,8 +718,8 @@
             "dependencies": []
         },
         {
-            "name": "Patchouli-1.19.2-77",
-            "filename": "Patchouli-1.19.2-77.jar",
+            "name": "Patchouli-1.19.2-77-tw",
+            "filename": "Patchouli-1.19.2-77-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -742,8 +742,8 @@
             "dependencies": []
         },
         {
-            "name": "polymorph-forge-0.46.6+1.19.2",
-            "filename": "polymorph-forge-0.46.6+1.19.2.jar",
+            "name": "polymorph-forge-0.46.6+1.19.2-tw",
+            "filename": "polymorph-forge-0.46.6+1.19.2-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -764,12 +764,12 @@
                 "模組輔助"
             ],
             "dependencies": [
-                "Patchouli-1.19.2-77"
+                "Patchouli-1.19.2-77-tw"
             ]
         },
         {
-            "name": "refinedstorage-1.11.7",
-            "filename": "refinedstorage-1.11.7.jar",
+            "name": "refinedstorage-1.11.7-tw",
+            "filename": "refinedstorage-1.11.7-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -780,8 +780,8 @@
             "dependencies": []
         },
         {
-            "name": "refurbished furniture-forge-1.19.2-1.0.8",
-            "filename": "refurbished_furniture-forge-1.19.2-1.0.8.jar",
+            "name": "refurbished furniture-forge-1.19.2-1.0.8-tw",
+            "filename": "refurbished_furniture-forge-1.19.2-1.0.8-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -792,8 +792,8 @@
             "dependencies": []
         },
         {
-            "name": "rpmtw-platform-mod-1.19.2-1.5.8-forge",
-            "filename": "rpmtw-platform-mod-1.19.2-1.5.8-forge.jar",
+            "name": "rpmtw-platform-mod-1.19.2-1.5.8-forge-tw",
+            "filename": "rpmtw-platform-mod-1.19.2-1.5.8-forge-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": false,
@@ -804,8 +804,8 @@
             "dependencies": []
         },
         {
-            "name": "scarecrowsterritory-1.1.11a-forge-mc1.19",
-            "filename": "scarecrowsterritory-1.1.11a-forge-mc1.19.jar",
+            "name": "scarecrowsterritory-1.1.11a-forge-mc1.19-tw",
+            "filename": "scarecrowsterritory-1.1.11a-forge-mc1.19-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -819,8 +819,8 @@
             ]
         },
         {
-            "name": "shulkerboxtooltip-forge-3.2.2+1.19.2",
-            "filename": "shulkerboxtooltip-forge-3.2.2+1.19.2.jar",
+            "name": "shulkerboxtooltip-forge-3.2.2+1.19.2-tw",
+            "filename": "shulkerboxtooltip-forge-3.2.2+1.19.2-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -829,7 +829,7 @@
                 "UI輔助"
             ],
             "dependencies": [
-                "cloth-config-8.3.134-forge"
+                "cloth-config-8.3.134-forge-tw"
             ]
         },
         {
@@ -869,8 +869,8 @@
             "dependencies": []
         },
         {
-            "name": "sliceanddice-forge-2.4.0",
-            "filename": "sliceanddice-forge-2.4.0.jar",
+            "name": "sliceanddice-forge-2.4.0-tw",
+            "filename": "sliceanddice-forge-2.4.0-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -879,14 +879,14 @@
                 "模組輔助"
             ],
             "dependencies": [
-                "create-1.19.2-0.5.1.i",
-                "FarmersDelight-1.19.2-1.2.4",
+                "create-1.19.2-0.5.1.i-tw",
+                "FarmersDelight-1.19.2-1.2.4-tw",
                 "kotlinforforge-3.12.0-all"
             ]
         },
         {
-            "name": "sophisticatedbackpacks-1.19.2-3.20.2.1035",
-            "filename": "sophisticatedbackpacks-1.19.2-3.20.2.1035.jar",
+            "name": "sophisticatedbackpacks-1.19.2-3.20.2.1035-tw",
+            "filename": "sophisticatedbackpacks-1.19.2-3.20.2.1035-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -895,12 +895,12 @@
                 "生存輔助"
             ],
             "dependencies": [
-                "sophisticatedcore-1.19.2-0.6.4.730"
+                "sophisticatedcore-1.19.2-0.6.4.730-tw"
             ]
         },
         {
-            "name": "sophisticatedcore-1.19.2-0.6.4.730",
-            "filename": "sophisticatedcore-1.19.2-0.6.4.730.jar",
+            "name": "sophisticatedcore-1.19.2-0.6.4.730-tw",
+            "filename": "sophisticatedcore-1.19.2-0.6.4.730-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -911,8 +911,8 @@
             "dependencies": []
         },
         {
-            "name": "Steam Rails-1.6.6+forge-mc1.19.2",
-            "filename": "Steam_Rails-1.6.6+forge-mc1.19.2.jar",
+            "name": "Steam Rails-1.6.6+forge-mc1.19.2-tw",
+            "filename": "Steam_Rails-1.6.6+forge-mc1.19.2-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -921,7 +921,7 @@
                 "交通"
             ],
             "dependencies": [
-                "create-1.19.2-0.5.1.i"
+                "create-1.19.2-0.5.1.i-tw"
             ]
         },
         {
@@ -949,8 +949,8 @@
             "dependencies": []
         },
         {
-            "name": "TConstruct-1.19.2-3.8.5.58",
-            "filename": "TConstruct-1.19.2-3.8.5.58.jar",
+            "name": "TConstruct-1.19.2-3.8.5.58-tw",
+            "filename": "TConstruct-1.19.2-3.8.5.58-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -963,8 +963,8 @@
             ]
         },
         {
-            "name": "theoneprobe-1.19-6.2.2",
-            "filename": "theoneprobe-1.19-6.2.2.jar",
+            "name": "theoneprobe-1.19-6.2.2-tw",
+            "filename": "theoneprobe-1.19-6.2.2-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -975,8 +975,8 @@
             "dependencies": []
         },
         {
-            "name": "twilightforest-1.19.2-4.2.1518-universal",
-            "filename": "twilightforest-1.19.2-4.2.1518-universal.jar",
+            "name": "twilightforest-1.19.2-4.2.1518-universal-tw",
+            "filename": "twilightforest-1.19.2-4.2.1518-universal-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -987,8 +987,8 @@
             "dependencies": []
         },
         {
-            "name": "worldedit-mod-7.2.12",
-            "filename": "worldedit-mod-7.2.12.jar",
+            "name": "worldedit-mod-7.2.12-tw",
+            "filename": "worldedit-mod-7.2.12-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -999,8 +999,8 @@
             "dependencies": []
         },
         {
-            "name": "wormhole-1.1.16-forge-mc1.19",
-            "filename": "wormhole-1.1.16-forge-mc1.19.jar",
+            "name": "wormhole-1.1.16-forge-mc1.19-tw",
+            "filename": "wormhole-1.1.16-forge-mc1.19-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -1014,8 +1014,8 @@
             ]
         },
         {
-            "name": "Xaeros Minimap 24.7.1 Forge 1.19.1",
-            "filename": "Xaeros_Minimap_24.7.1_Forge_1.19.1.jar",
+            "name": "Xaeros Minimap 24.7.1 Forge 1.19.1-tw",
+            "filename": "Xaeros_Minimap_24.7.1_Forge_1.19.1-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
@@ -1026,8 +1026,8 @@
             "dependencies": []
         },
         {
-            "name": "XaerosWorldMap 1.39.2 Forge 1.19.1",
-            "filename": "XaerosWorldMap_1.39.2_Forge_1.19.1.jar",
+            "name": "XaerosWorldMap 1.39.2 Forge 1.19.1-tw",
+            "filename": "XaerosWorldMap_1.39.2_Forge_1.19.1-tw.jar",
             "is_translated": true,
             "client_required": true,
             "server_required": true,
