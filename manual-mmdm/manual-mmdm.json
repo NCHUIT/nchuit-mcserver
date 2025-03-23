@@ -147,6 +147,18 @@
             "dependencies": []
         },
         {
+            "name": "CraftTweaker-forge-1.19.2-10.1.56",
+            "filename": "CraftTweaker-forge-1.19.2-10.1.56.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "修改合成表",
+            "categories": [
+                "規則修改"
+            ],
+            "dependencies": []
+        },
+        {
             "name": "create-1.19.2-0.5.1.i",
             "filename": "create-1.19.2-0.5.1.i.jar",
             "is_translated": false,

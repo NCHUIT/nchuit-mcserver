@@ -10,6 +10,7 @@ charmofundying-forge-6.2.1+1.19.2
 chunkloaders-1.2.8a-forge-mc1.19
 configured-2.1.1-1.19.2
 Controlling-forge-1.19.2-10.0+7
+CraftTweaker-forge-1.19.2-10.1.56
 createaddition-1.19.2-1.2.2
   └── create-1.19.2-0.5.1.i
 cupboard-1.19.2-2.6
@@ -103,6 +104,7 @@ chunkloaders-1.2.8a-forge-mc1.19
 cloth-config-8.3.134-forge
 configured-2.1.1-1.19.2
 Controlling-forge-1.19.2-10.0+7
+CraftTweaker-forge-1.19.2-10.1.56
 create-1.19.2-0.5.1.i
 createaddition-1.19.2-1.2.2 (dependencies: create-1.19.2-0.5.1.i)
 cupboard-1.19.2-2.6
