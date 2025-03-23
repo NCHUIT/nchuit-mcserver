@@ -25,6 +25,7 @@ FastSuite-1.19.2-4.1.1
   └── Placebo-1.19.2-7.4.0
 FastWorkbench-1.19.2-7.1.4
   └── Placebo-1.19.2-7.4.0
+flan-1.19.2-1.8.4-forge
 Forgematica-0.1.10-mc1.19.2
   └── MaFgLib-0.1.14-mc1.19.2
 framework-forge-1.19.2-0.7.12
@@ -84,6 +85,7 @@ TConstruct-1.19.2-3.8.5.58
 theoneprobe-1.19-6.2.2
 tpa-1.4.1-1.19.2
 twilightforest-1.19.2-4.2.1518-universal
+worldedit-mod-7.2.12
 wormhole-1.1.16-forge-mc1.19
   ├── supermartijn642configlib-1.1.8-forge-mc1.19
   └── supermartijn642corelib-1.1.18-forge-mc1.19.2
@@ -114,6 +116,7 @@ farsight-1.19.2-3.6
 FastFurnace-1.19.2-7.0.0 (dependencies: Placebo-1.19.2-7.4.0)
 FastSuite-1.19.2-4.1.1 (dependencies: Placebo-1.19.2-7.4.0)
 FastWorkbench-1.19.2-7.1.4 (dependencies: Placebo-1.19.2-7.4.0)
+flan-1.19.2-1.8.4-forge
 Forgematica-0.1.10-mc1.19.2 (dependencies: MaFgLib-0.1.14-mc1.19.2)
 framework-forge-1.19.2-0.7.12
 globalxp-1.19.2-1.10.2
@@ -164,6 +167,7 @@ TConstruct-1.19.2-3.8.5.58 (dependencies: Mantle-1.19.2-1.10.48)
 theoneprobe-1.19-6.2.2
 tpa-1.4.1-1.19.2
 twilightforest-1.19.2-4.2.1518-universal
+worldedit-mod-7.2.12
 wormhole-1.1.16-forge-mc1.19 (dependencies: supermartijn642configlib-1.1.8-forge-mc1.19, supermartijn642corelib-1.1.18-forge-mc1.19.2)
 Xaeros Minimap 24.7.1 Forge 1.19.1
 XaerosWorldMap 1.39.2 Forge 1.19.1

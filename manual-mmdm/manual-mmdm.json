@@ -313,6 +313,18 @@
             ]
         },
         {
+            "name": "flan-1.19.2-1.8.4-forge",
+            "filename": "flan-1.19.2-1.8.4-forge.jar",
+            "is_translated": false,
+            "client_required": false,
+            "server_required": true,
+            "notes": "領地管理",
+            "categories": [
+                "規則修改"
+            ],
+            "dependencies": []
+        },
+        {
             "name": "Forgematica-0.1.10-mc1.19.2",
             "filename": "Forgematica-0.1.10-mc1.19.2.jar",
             "is_translated": false,
@@ -944,6 +956,18 @@
             "notes": "暮光森林",
             "categories": [
                 "RPG"
+            ],
+            "dependencies": []
+        },
+        {
+            "name": "worldedit-mod-7.2.12",
+            "filename": "worldedit-mod-7.2.12.jar",
+            "is_translated": false,
+            "client_required": true,
+            "server_required": true,
+            "notes": "小木斧",
+            "categories": [
+                "規則修改"
             ],
             "dependencies": []
         },
