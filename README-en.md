@@ -77,7 +77,7 @@ If you're a modpack editor and want to publish a Release after changing mods, pr
 
 ## ❓ Frequently Asked Questions (FAQ)
 1. **Issue**: Memory error when launching the game  
-   **Solution**: Make sure you've allocated enough RAM to Minecraft (at least 3GB)
+   **Solution**: Make sure you've allocated enough RAM to Minecraft (at least 4GB)
 
 2. **Issue**: Unable to connect to the server  
    **Solution**: Verify that the server address is entered correctly and check your network connection
