@@ -41,7 +41,7 @@
         {
             "name": "appleskin-forge-mc1.19-2.4.2",
             "filename": "appleskin-forge-mc1.19-2.4.2.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "食物及飢餓相關HUD增強",
@@ -65,7 +65,7 @@
         {
             "name": "BetterAdvancements-1.19.2-0.3.0.148",
             "filename": "BetterAdvancements-1.19.2-0.3.0.148.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": false,
             "notes": "更好的成就",
@@ -77,7 +77,7 @@
         {
             "name": "catalogue-1.7.0-1.19.2",
             "filename": "catalogue-1.7.0-1.19.2.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": false,
             "notes": "現代化模組列表",
@@ -89,7 +89,7 @@
         {
             "name": "charmofundying-forge-6.2.1+1.19.2",
             "filename": "charmofundying-forge-6.2.1+1.19.2.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "不死圖騰插槽",
@@ -101,7 +101,7 @@
         {
             "name": "chunkloaders-1.2.8a-forge-mc1.19",
             "filename": "chunkloaders-1.2.8a-forge-mc1.19.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "區塊加載",
@@ -113,7 +113,7 @@
         {
             "name": "cloth-config-8.3.134-forge",
             "filename": "cloth-config-8.3.134-forge.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "",
@@ -125,7 +125,7 @@
         {
             "name": "configured-2.1.1-1.19.2",
             "filename": "configured-2.1.1-1.19.2.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "在遊戲內UI俢改模組config",
@@ -137,7 +137,7 @@
         {
             "name": "Controlling-forge-1.19.2-10.0+7",
             "filename": "Controlling-forge-1.19.2-10.0+7.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": false,
             "notes": "按鍵衝突顯示",
@@ -149,7 +149,7 @@
         {
             "name": "CraftTweaker-forge-1.19.2-10.1.56",
             "filename": "CraftTweaker-forge-1.19.2-10.1.56.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "修改合成表",
@@ -161,7 +161,7 @@
         {
             "name": "create-1.19.2-0.5.1.i",
             "filename": "create-1.19.2-0.5.1.i.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "機械動力",
@@ -173,7 +173,7 @@
         {
             "name": "createaddition-1.19.2-1.2.2",
             "filename": "createaddition-1.19.2-1.2.2.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "機械動力拓充",
@@ -199,7 +199,7 @@
         {
             "name": "curios-forge-1.19.2-5.1.6.4",
             "filename": "curios-forge-1.19.2-5.1.6.4.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "",
@@ -223,7 +223,7 @@
         {
             "name": "embeddium-0.3.18.1+mc1.19.2",
             "filename": "embeddium-0.3.18.1+mc1.19.2.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": false,
             "notes": "",
@@ -235,7 +235,7 @@
         {
             "name": "embeddiumplus-1.19.2-v1.2.13",
             "filename": "embeddiumplus-1.19.2-v1.2.13.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": false,
             "notes": "embeddium 擴展",
@@ -261,7 +261,7 @@
         {
             "name": "FarmersDelight-1.19.2-1.2.4",
             "filename": "FarmersDelight-1.19.2-1.2.4.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "豐富了耕作與烹飪相關的內容",
@@ -339,7 +339,7 @@
         {
             "name": "Forgematica-0.1.10-mc1.19.2",
             "filename": "Forgematica-0.1.10-mc1.19.2.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": false,
             "notes": "藍圖",
@@ -365,7 +365,7 @@
         {
             "name": "globalxp-1.19.2-1.10.2",
             "filename": "globalxp-1.19.2-1.10.2.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "經驗儲存方塊",
@@ -377,7 +377,7 @@
         {
             "name": "gravestone-forge-1.19.2-1.0.24",
             "filename": "gravestone-forge-1.19.2-1.0.24.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "死亡墓碑",
@@ -389,19 +389,19 @@
         {
             "name": "imblocker-1.19.2-3.1.2",
             "filename": "imblocker-1.19.2-3.1.2.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": false,
             "notes": "輸入法輸入衝突修復",
             "categories": [
-                "性能優化"
+                "規則修改"
             ],
             "dependencies": []
         },
         {
             "name": "inventoryhud.forge.1.19.2-3.4.26",
             "filename": "inventoryhud.forge.1.19.2-3.4.26.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": false,
             "notes": "物品欄HUD+",
@@ -413,7 +413,7 @@
         {
             "name": "InventoryProfilesNext-forge-1.19-1.10.11",
             "filename": "InventoryProfilesNext-forge-1.19-1.10.11.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": false,
             "notes": "一鍵整理包包",
@@ -428,7 +428,7 @@
         {
             "name": "ironchest-1.19.2-14.2.7",
             "filename": "ironchest-1.19.2-14.2.7.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "更多箱子",
@@ -440,7 +440,7 @@
         {
             "name": "jecharacters-1.19.2-forge-4.5.13",
             "filename": "jecharacters-1.19.2-forge-4.5.13.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": false,
             "notes": "通用拼音搜尋",
@@ -452,7 +452,7 @@
         {
             "name": "jeed-1.19.2-2.1.4",
             "filename": "jeed-1.19.2-2.1.4.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "JEI 藥水效果",
@@ -466,7 +466,7 @@
         {
             "name": "jei-1.19.2-forge-11.8.1.1034",
             "filename": "jei-1.19.2-forge-11.8.1.1034.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "JEI 配方查詢",
@@ -493,7 +493,7 @@
         {
             "name": "JustEnoughProfessions-forge-1.19.2-2.0.2",
             "filename": "JustEnoughProfessions-forge-1.19.2-2.0.2.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "在 JEI 中提供村民需要哪些工作方塊的資訊",
@@ -507,7 +507,7 @@
         {
             "name": "JustEnoughResources-1.19.2-1.2.3.243",
             "filename": "JustEnoughResources-1.19.2-1.2.3.243.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": false,
             "notes": "JEI 生物資源整合",
@@ -545,7 +545,7 @@
         {
             "name": "libIPN-forge-1.19-4.0.2",
             "filename": "libIPN-forge-1.19-4.0.2.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": false,
             "notes": "",
@@ -557,7 +557,7 @@
         {
             "name": "MaFgLib-0.1.14-mc1.19.2",
             "filename": "MaFgLib-0.1.14-mc1.19.2.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": false,
             "notes": "",
@@ -581,7 +581,7 @@
         {
             "name": "ModernUI-Forge-1.19.2-3.10.1.2-universal",
             "filename": "ModernUI-Forge-1.19.2-3.10.1.2-universal.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": false,
             "notes": "現代化UI界面",
@@ -631,7 +631,7 @@
         {
             "name": "MTR-forge-4.0.0-beta.16+1.19.2",
             "filename": "MTR-forge-4.0.0-beta.16+1.19.2.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "自動化鐵路",
@@ -643,7 +643,7 @@
         {
             "name": "Neat-1.19-32",
             "filename": "Neat-1.19-32.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": false,
             "notes": "極簡血量顯示",
@@ -655,7 +655,7 @@
         {
             "name": "Nedologin-1.19.2-1.0.8-all",
             "filename": "Nedologin-1.19.2-1.0.8-all.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "Offline 模式登入系統",
@@ -667,7 +667,7 @@
         {
             "name": "notenoughcrashes-5.0.0+1.19.2-forge",
             "filename": "notenoughcrashes-5.0.0+1.19.2-forge.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "崩潰優化",
@@ -679,7 +679,7 @@
         {
             "name": "oculus-mc1.19.2-1.6.9",
             "filename": "oculus-mc1.19.2-1.6.9.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": false,
             "notes": "",
@@ -693,7 +693,7 @@
         {
             "name": "OreExcavation-1.11.166",
             "filename": "OreExcavation-1.11.166.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "連鎖挖礦",
@@ -705,7 +705,7 @@
         {
             "name": "Patchouli-1.19.2-77",
             "filename": "Patchouli-1.19.2-77.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "模組手冊系統",
@@ -729,7 +729,7 @@
         {
             "name": "polymorph-forge-0.46.6+1.19.2",
             "filename": "polymorph-forge-0.46.6+1.19.2.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "允許多個重複合成表",
@@ -755,7 +755,7 @@
         {
             "name": "refinedstorage-1.11.7",
             "filename": "refinedstorage-1.11.7.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "精緻存儲",
@@ -779,7 +779,7 @@
         {
             "name": "rpmtw-platform-mod-1.19.2-1.5.8-forge",
             "filename": "rpmtw-platform-mod-1.19.2-1.5.8-forge.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": false,
             "notes": "繁體中文漢化模組",
@@ -791,7 +791,7 @@
         {
             "name": "scarecrowsterritory-1.1.11a-forge-mc1.19",
             "filename": "scarecrowsterritory-1.1.11a-forge-mc1.19.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "生怪稻草人",
@@ -806,7 +806,7 @@
         {
             "name": "shulkerboxtooltip-forge-3.2.2+1.19.2",
             "filename": "shulkerboxtooltip-forge-3.2.2+1.19.2.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "顯示界伏盒的內容物",
@@ -844,7 +844,7 @@
         {
             "name": "sliceanddice-forge-2.4.0",
             "filename": "sliceanddice-forge-2.4.0.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "讓 Create 與農業聯動的模組",
@@ -860,7 +860,7 @@
         {
             "name": "sophisticatedbackpacks-1.19.2-3.20.2.1035",
             "filename": "sophisticatedbackpacks-1.19.2-3.20.2.1035.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "背包模組",
@@ -874,7 +874,7 @@
         {
             "name": "sophisticatedcore-1.19.2-0.6.4.730",
             "filename": "sophisticatedcore-1.19.2-0.6.4.730.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "",
@@ -886,7 +886,7 @@
         {
             "name": "Steam Rails-1.6.6+forge-mc1.19.2",
             "filename": "Steam_Rails-1.6.6+forge-mc1.19.2.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "Create 的鐵路系統附屬",
@@ -924,7 +924,7 @@
         {
             "name": "TConstruct-1.19.2-3.8.5.58",
             "filename": "TConstruct-1.19.2-3.8.5.58.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "匠魂",
@@ -938,7 +938,7 @@
         {
             "name": "theoneprobe-1.19-6.2.2",
             "filename": "theoneprobe-1.19-6.2.2.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "看著箱子時顯示內部物品等資訊",
@@ -962,7 +962,7 @@
         {
             "name": "twilightforest-1.19.2-4.2.1518-universal",
             "filename": "twilightforest-1.19.2-4.2.1518-universal.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "暮光森林",
@@ -974,7 +974,7 @@
         {
             "name": "worldedit-mod-7.2.12",
             "filename": "worldedit-mod-7.2.12.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "小木斧",
@@ -986,7 +986,7 @@
         {
             "name": "wormhole-1.1.16-forge-mc1.19",
             "filename": "wormhole-1.1.16-forge-mc1.19.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "自定義傳送門",
@@ -1001,7 +1001,7 @@
         {
             "name": "Xaeros Minimap 24.7.1 Forge 1.19.1",
             "filename": "Xaeros_Minimap_24.7.1_Forge_1.19.1.jar",
-            "is_translated": false,
+            "is_translated": true,
             "client_required": true,
             "server_required": true,
             "notes": "小地圖",
