@@ -53,11 +53,11 @@ moonlight-1.19.2-2.3.7-forge
 moreoverlays-1.21.10-mc1.19.2
   └── jei-1.19.2-forge-11.8.1.1034
 MouseTweaks-forge-mc1.19-2.23
-MTR-forge-4.0.0-beta.13+1.19.2
+MTR-forge-4.0.0-beta.16+1.19.2
 Neat-1.19-32
 Nedologin-1.19.2-1.0.8-all
 notenoughcrashes-5.0.0+1.19.2-forge
-oculus-mc1.19.2-1.6.9a
+oculus-mc1.19.2-1.6.9
   └── embeddium-0.3.18.1+mc1.19.2
 OreExcavation-1.11.166
 polymorph-forge-0.46.6+1.19.2
@@ -142,11 +142,11 @@ ModernUI-Forge-1.19.2-3.10.1.2-universal
 moonlight-1.19.2-2.3.7-forge
 moreoverlays-1.21.10-mc1.19.2 (dependencies: jei-1.19.2-forge-11.8.1.1034)
 MouseTweaks-forge-mc1.19-2.23
-MTR-forge-4.0.0-beta.13+1.19.2
+MTR-forge-4.0.0-beta.16+1.19.2
 Neat-1.19-32
 Nedologin-1.19.2-1.0.8-all
 notenoughcrashes-5.0.0+1.19.2-forge
-oculus-mc1.19.2-1.6.9a (dependencies: embeddium-0.3.18.1+mc1.19.2)
+oculus-mc1.19.2-1.6.9 (dependencies: embeddium-0.3.18.1+mc1.19.2)
 OreExcavation-1.11.166
 Patchouli-1.19.2-77
 Placebo-1.19.2-7.4.0

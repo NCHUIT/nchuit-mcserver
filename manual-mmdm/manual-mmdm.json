@@ -629,8 +629,8 @@
             "dependencies": []
         },
         {
-            "name": "MTR-forge-4.0.0-beta.13+1.19.2",
-            "filename": "MTR-forge-4.0.0-beta.13+1.19.2.jar",
+            "name": "MTR-forge-4.0.0-beta.16+1.19.2",
+            "filename": "MTR-forge-4.0.0-beta.16+1.19.2.jar",
             "is_translated": false,
             "client_required": true,
             "server_required": true,
@@ -677,8 +677,8 @@
             "dependencies": []
         },
         {
-            "name": "oculus-mc1.19.2-1.6.9a",
-            "filename": "oculus-mc1.19.2-1.6.9a.jar",
+            "name": "oculus-mc1.19.2-1.6.9",
+            "filename": "oculus-mc1.19.2-1.6.9.jar",
             "is_translated": false,
             "client_required": true,
             "server_required": false,
